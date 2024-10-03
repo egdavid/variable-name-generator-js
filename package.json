@@ -1,0 +1,20 @@
+{
+    "name": "variable-name-generator-js",
+    "version": "1.0.0",
+    "description": "Unique variable name generator from keywords",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [
+      "name",
+      "generator",
+      "unique",
+      "javascript"
+    ],
+    "author": "David",
+    "license": "MIT",
+    "devDependencies": {
+      "jest": "^29.5.0"
+    }
+  }
